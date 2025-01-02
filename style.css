@@ -84,7 +84,7 @@ html, body{
   height:8vh;
   width:100;
   display: flex;
-  margin-bottom: 1.6vh;
+  margin-bottom: 1.3vh;
 }
 
 #dm #image{
@@ -102,7 +102,7 @@ html, body{
 
 #dm h3{
   margin-top: -3vh;
-  margin-left: 2vw;
+  margin-left: 3vw;
   display: flex;
   align-items: center;
   justify-content: center;
