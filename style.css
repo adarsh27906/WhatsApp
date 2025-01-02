@@ -88,15 +88,15 @@ html, body{
 }
 
 #dm #image{
-  height:6.5vh;
-  width:13vw;
+  height: 6.5vh;
+  width: 13vw;
   display: flex;
   align-items: center;
   justify-content: center;
   border-radius: 50%;
-  margin-left:2vw;
-  margin-top:.8vh;
-  margin-bottom:.8vh;
+  margin-left: 3.5vw;
+  margin-top: .8vh;
+  margin-bottom: .8vh;
   overflow: hidden;
 }
 
